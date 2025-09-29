@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 600 300" style="max-width: 600px;">
+  <defs>
+    <linearGradient id="nameGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#764ba2;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#f093fb;stop-opacity:1"/>
+    </linearGradient>
+    <radialGradient id="bgGradient" cx="50%" cy="30%">
+      <stop offset="0%" style="stop-color:rgba(102,126,234,0.1);stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:rgba(102,126,234,0);stop-opacity:0"/>
+    </radialGradient>
+    <linearGradient id="quoteGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FDADC7;stop-opacity:1"/>
+      <stop offset="30%" style="stop-color:#FF8FB1;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#FFB5C5;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#FFC8DD;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="600" height="300" fill="url(#bgGradient)"/>
+  
+  <text x="300" y="80" text-anchor="middle" font-family="PingFang SC, Arial, sans-serif" font-size="24" font-weight="300" fill="#333" letter-spacing="1px">
+    Hello, I'm
+  </text>
+  
+  <text x="300" y="120" text-anchor="middle" font-family="PingFang SC, Arial, sans-serif" font-size="32" font-weight="600" font-style="italic" fill="url(#nameGradient)" letter-spacing="1px">
+    CyreneNight
+  </text>
+  
+  <rect x="75" y="160" width="450" height="120" rx="20" fill="rgba(253,173,199,0.08)" stroke="none"/>
+  
+  <text x="480" y="175" font-size="16" fill="#FDADC7" opacity="0.3">🌸</text>
+  <text x="95" y="265" font-size="12" fill="#FDADC7" opacity="0.3">🌸</text>
+  
+  <text x="95" y="200" font-family="PingFang SC, Arial, sans-serif" font-size="14" font-weight="500" font-style="italic" fill="url(#quoteGradient)" letter-spacing="0.5px">
+    这一定是一个不同以往的浪漫故事……
+  </text>
+  <text x="505" y="240" text-anchor="end" font-family="PingFang SC, Arial, sans-serif" font-size="12" font-weight="400" fill="#E879A6" opacity="0.85" letter-spacing="0.3px">
+    你也是这么想的，对吧？
+  </text>
+</svg>

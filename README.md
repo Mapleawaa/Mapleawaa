@@ -3,18 +3,7 @@
 <!-- 二次修改使用请注明出处，谢谢啦 -->
 
 <div align="center">
-  <iframe src="https://cyrenenightintro.netlify.app/header.html" 
-          width="100%" 
-          height="500" 
-          frameborder="0" 
-          loading="lazy"
-          title="CyreneNight Beautiful Introduction"
-          style="max-width: 900px; min-width: 320px; border-radius: 15px; box-shadow: 0 8px 32px rgba(253, 173, 199, 0.15); background: linear-gradient(45deg, #FDADC7, #FFB5C5); animation: shimmer 2s infinite;">
-    <p style="color: #d7d7d79c; font-style: italic; padding: 20px;">
-      ✨ Loading beautiful introduction...<br/>
-      <small>If this message persists, please refresh the page</small>
-    </p>
-  </iframe>
+    <img src="/head.svg">
 </div>
 
 <style>
@@ -74,37 +63,8 @@
   </table>
 </div>
 
-<!-- 移动端友好的 Stats 显示 -->
-<div align="center" style="display: none;">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mapleawaa&count_private=true&locale=cn&show_icons=true&title_color=FDADC7&icon_color=FFB5C5&text_color=E879A6&bg_color=00000000&border_color=FDADC7&border_radius=15" 
-         alt="GitHub Stats"
-         style="max-width: 100%; height: auto;"
-         loading="lazy"/>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mapleawaa&ring=FDADC7&fire=FFB5C5&currStreakLabel=E879A6&background=00000000&border=FDADC7&stroke=FDADC7&dates=E879A6&sideNums=FDADC7&sideLabels=FFB5C5&currStreakNum=FDADC7" 
-         alt="GitHub Streak"
-         style="max-width: 100%; height: auto;"
-         loading="lazy"/>
-  </p>
-</div>
-
-<style>
-/* 移动端 Stats 适配 */
-@media (max-width: 768px) {
-  table {
-    display: none !important;
-  }
-  
-  div[style*="display: none"] {
-    display: block !important;
-  }
-}
-</style>
-
 <br/>
-<br/>
+
 
 ## 💌 **Let's Connect!**
 
@@ -134,50 +94,6 @@
   </a>
 </p>
 
-<!-- 移动端垂直布局联系方式 -->
-<div align="center" style="display: none;">
-  <p>
-    <a href="mailto:marecyrene@gmail.com" title="Send me an email">
-      <img src="https://img.shields.io/badge/Email-FDADC7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF8FB1" 
-           alt="Email"
-           loading="lazy"/>
-    </a>
-  </p>
-  <p>
-    <a href="https://t.me/@CyreneNight" title="Chat with me on Telegram">
-      <img src="https://img.shields.io/badge/Telegram-FFB5C5?style=for-the-badge&logo=telegram&logoColor=white&labelColor=FDADC7" 
-           alt="Telegram"
-           loading="lazy"/>
-    </a>
-  </p>
-  <p>
-    <a href="https://space.bilibili.com/333647072" title="Follow me on Bilibili">
-      <img src="https://img.shields.io/badge/哔哩哔哩-FFC8DD?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=FFB5C5" 
-           alt="Bilibili"
-           loading="lazy"/>
-    </a>
-  </p>
-  <p>
-    <a href="https://mcyre.cc" title="Visit my blog">
-      <img src="https://img.shields.io/badge/Blog-E879A6?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=FDADC7" 
-           alt="Blog"
-           loading="lazy"/>
-    </a>
-  </p>
-</div>
-
-<style>
-/* 移动端联系方式垂直布局 */
-@media (max-width: 600px) {
-  p[align="center"]:has(a[href*="mailto"]) {
-    display: none !important;
-  }
-  
-  div[align="center"][style*="display: none"]:last-of-type {
-    display: block !important;
-  }
-}
-</style>
 
 <br/>
 
@@ -196,7 +112,7 @@
     <br/>
     <p style="color: #E879A6; font-style: italic;">
       Click on any contact method above to reach out!<br/>
-      I'd love to hear from you! 🌸
+      I'd love to hear from you! 
     </p>
   </details>
 </div>
