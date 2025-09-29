@@ -6,29 +6,6 @@
     <img src="/head.svg">
 </div>
 
-<style>
-@keyframes shimmer {
-  0% { opacity: 0.8; }
-  50% { opacity: 1; }
-  100% { opacity: 0.8; }
-}
-
-/* 移动端适配 */
-@media (max-width: 768px) {
-  iframe {
-    height: 400px !important;
-  }
-}
-
-@media (max-width: 480px) {
-  iframe {
-    height: 350px !important;
-    border-radius: 10px !important;
-  }
-}
-</style>
-
-<br/>
 <br/>
 
 ### 🛠️ **Tech Arsenal**
