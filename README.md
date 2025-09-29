@@ -159,3 +159,17 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mapleawaa&color=FDADC7&style=for-the-badge&label=Profile+Views"/>
 </p>
+
+<!-- ---
+## 关于使用
+
+欢迎你借鉴或使用本介绍中的任何部分！这对我来说是一种荣幸。
+
+但请你务必遵守一个简单的规则：**请在你的作品中明确注明我的名字并链接到我的 GitHub 主页**。
+
+如果你不这么做，我会很生气 (╯°□°)╯︵ ┻━┻
+
+**示例署名：**
+> 此介绍灵感来源于 [CyreneNight](https://github.com/Mapleawaa) 的 README。
+
+感谢你的理解和尊重！ -->
