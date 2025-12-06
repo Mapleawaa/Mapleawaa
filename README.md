@@ -52,7 +52,7 @@
          loading="lazy"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/@CyreneNight" title="Chat with me on Telegram">
+  <a href="https://t.me/Omphalos2_bot" title="Chat with me on Telegram">
     <img src="https://img.shields.io/badge/Telegram-FFB5C5?style=for-the-badge&logo=telegram&logoColor=white&labelColor=FDADC7" 
          alt="Telegram"
          loading="lazy"/>
