@@ -46,7 +46,7 @@
 ## 💌 **Let's Connect!**
 
 <p align="center">
-  <a href="mailto:marecyrene@gmail.com" title="Send me an email">
+  <a href="mailto:Cirrene@qq.com" title="Send me an email">
     <img src="https://img.shields.io/badge/Email-FDADC7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF8FB1" 
          alt="Email"
          loading="lazy"/>
@@ -58,13 +58,7 @@
          loading="lazy"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://space.bilibili.com/333647072" title="Follow me on Bilibili">
-    <img src="https://img.shields.io/badge/哔哩哔哩-FFC8DD?style=for-the-badge&logo=bilibili&logoColor=white&labelColor=FFB5C5" 
-         alt="Bilibili"
-         loading="lazy"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mcyre.cc" title="Visit my blog">
+  <a href="https://blog.oowo.cc" title="Visit my blog">
     <img src="https://img.shields.io/badge/Blog-E879A6?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=FDADC7" 
          alt="Blog"
          loading="lazy"/>
