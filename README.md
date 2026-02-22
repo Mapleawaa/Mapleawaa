@@ -74,6 +74,22 @@
        loading="lazy"/>
 </p>
 
+<div align="center">
+  <p align="center">
+    <a href="https://afdian.com/a/cyrenenight">
+      <img src="https://img.shields.io/badge/Aifadian-爱发电创作者认证-FFC8DD?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=FDADC7" 
+           alt="Aifadian Verification"
+           loading="lazy"/>
+    </a>
+  </p>
+  <p style="color: #E879A6; font-size: 0.8em; font-style: italic;">
+    I have officially joined Aifadian as a creator. <br/>
+    本账号已入驻爱发电，点击上方 Badge 即可访问主页。
+  </p>
+</div>
+
+<br/>
+
 <!-- 访客留言板 -->
 <div align="center">
   <details>
@@ -105,24 +121,3 @@
        loading="lazy"/>
 </div>
 
-<!--
-## 🎀 关于使用
-
-欢迎你借鉴或使用本介绍中的任何部分！这对我来说是一种荣幸。
-
-但请你务必遵守一个简单的规则：**请在你的作品中明确注明我的名字并链接到我的 GitHub 主页**。
-
-如果你不这么做，我会很生气 (╯°□°)╯︵ ┻━┻
-
-**示例署名：**
-> 此介绍灵感来源于 [CyreneNight](https://github.com/Mapleawaa) 的 README。
-
-感谢你的理解和尊重！
--->
-
-<!-- 
-特别致谢：
-- 感谢 Netlify 提供稳定的托管服务
-- 感谢所有开源项目的贡献者们
-- 感谢每一个访问我 GitHub 的朋友 🌸
--->
