@@ -74,20 +74,6 @@
        loading="lazy"/>
 </p>
 
-<div align="center">
-  <p align="center">
-    <a href="https://afdian.com/a/cyrenenight">
-      <img src="https://img.shields.io/badge/Aifadian-爱发电创作者认证-FFC8DD?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=FDADC7" 
-           alt="Aifadian Verification"
-           loading="lazy"/>
-    </a>
-  </p>
-  <p style="color: #E879A6; font-size: 0.8em; font-style: italic;">
-    I have officially joined Aifadian as a creator. <br/>
-    本账号已入驻爱发电，点击上方 Badge 即可访问主页。
-  </p>
-</div>
-
 <br/>
 
 <!-- 访客留言板 -->
